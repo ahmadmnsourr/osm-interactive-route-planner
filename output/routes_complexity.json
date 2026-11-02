@@ -1,0 +1,35 @@
+{
+  "routes": [
+    {
+      "route": "A",
+      "route_length_km": 0.6708329168367674,
+      "intersection_density": 8.944104931958742,
+      "sinuosity": 1.4105830926708154,
+      "traffic_signal_density": 0.0,
+      "crossing_density": 0.0,
+      "complexity_score": 3.4830824993532636,
+      "classification": "Easy"
+    },
+    {
+      "route": "B",
+      "route_length_km": 0.6711431316288058,
+      "intersection_density": 8.939970800920698,
+      "sinuosity": 1.4112353918197735,
+      "traffic_signal_density": 0.0,
+      "crossing_density": 0.0,
+      "complexity_score": 3.481798628277187,
+      "classification": "Easy"
+    },
+    {
+      "route": "C",
+      "route_length_km": 0.6714001457292507,
+      "intersection_density": 8.936548551807382,
+      "sinuosity": 1.4117758240728224,
+      "traffic_signal_density": 0.0,
+      "crossing_density": 0.0,
+      "complexity_score": 3.480735949150789,
+      "classification": "Easy"
+    }
+  ],
+  "best_route": "C"
+}

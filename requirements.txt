@@ -1,0 +1,10 @@
+geopandas>=1.1.0
+osmnx>=2.1.0
+networkx>=3.0
+pandas>=2.0
+shapely>=2.0
+pyproj>=3.6
+pyogrio>=0.12
+requests>=2.31
+folium>=0.20
+scikit-learn>=1.3

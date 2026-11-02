@@ -1,0 +1,17 @@
+{
+  "routes": [
+    {
+      "route": "A",
+      "complexity": 3.4830824993532636
+    },
+    {
+      "route": "B",
+      "complexity": 3.481798628277187
+    },
+    {
+      "route": "C",
+      "complexity": 3.480735949150789
+    }
+  ],
+  "best_route": "C"
+}
